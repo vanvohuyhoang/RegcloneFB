@@ -1,0 +1,8 @@
+# Các modun cần thiết :
+
+pip install unidecode
+pip install requests
+pip install opencv-python
+pip install numpy
+
+# Demo 
